@@ -22,7 +22,7 @@ At the moment, I'm exploring how tumors sucessfully manage their deleterious mut
 
 #### Selective interference in cancer 
 
-When multiple beneficial and deleterious mutations are physically linked on the same chromosome, natural selection becomes inefficient at favoring or removing individual mutations through selective interference. We tested how common this phenomenon is in human cancers by measuring how patterns of selection change as tumors accumulate more mutations. Using a combination of evolutionary simulations and observation from empirical cancer sequencing data, we found that negative selection, in particular, becomes rapidly inefficient in most tumors. To learn more, check out our paper [here](https://www.biorxiv.org/content/10.1101/764340v4)!
+When multiple beneficial and deleterious mutations are physically linked on the same chromosome, natural selection becomes inefficient at favoring or removing individual mutations through selective interference. We tested how common this phenomenon is in human cancers by measuring how patterns of selection change as tumors accumulate more mutations. Using a combination of evolutionary simulations and observations from empirical cancer sequencing data, we found that negative selection becomes rapidly inefficient in most tumors. To learn more, check out our paper [here](https://www.biorxiv.org/content/10.1101/764340v4)!
 
 ### Previous research 
 #### Seasonal adaptation in Drosophila
