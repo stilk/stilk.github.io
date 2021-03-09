@@ -12,7 +12,6 @@ I'm a computational biologist applying evolutionary theory to cancer sequencing 
 
 Currently, I'm a fourth-year graduate student in the Ecology & Evolution track of the Biology Department at Stanford University, working with [Christina Curtis](https://med.stanford.edu/curtislab.html) and [Dmitri Petrov](http://petrov.stanford.edu/).
 
-
 Research
 ------
 ________
