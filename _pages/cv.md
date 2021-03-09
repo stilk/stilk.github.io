@@ -12,14 +12,14 @@ redirect_from:
 Education
 ======
 * B.S. in Cell and Developmental Biology, UC Santa Barbara *2014*
-* Ph.D in Biology, Stanford University *2022 (expected)*
+* Ph.D. in Biology, Stanford University *2022 (expected)*
 
 Work experience
 ======
 * **Graduate Student Researcher, Stanford University** *(2017 - Present)*
   * Created and managed pipelines for interpretation of large genomic datasets in cancer and normal tissues (TCGA, CCLE, GTEX, etc.)
   * Developed a non-parametric null model for calculating dN/dS to quantify patterns of selection in cancer
-  * Applied Approximate Bayesian Computation (ABC) techniques to infer parameters of a tumor evolution model
+  * Applied Approximate Bayesian Computation (ABC) techniques to infer parameters in a model of a tumor evolution
   * Utilized mixed effects regression models to quantify expression profiles of tumors
 
 * **Life Science Research Professional 1, Stanford University** *(2014 - 2017)*
