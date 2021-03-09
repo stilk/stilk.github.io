@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 ________________
+
 ### Education
 
 * Ph.D. in Biology, Stanford University, *2022 (expected)*
