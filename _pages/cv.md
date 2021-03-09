@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 ________________
-Education
-======
+### Education
+
 * Ph.D. in Biology, Stanford University, *2022 (expected)*
 * B.S. in Cell and Developmental Biology, UC Santa Barbara, *2014*
 
-Work experience
-======
+### Work experience
+
 * **Graduate Student Researcher, Stanford University** *(2017 - Present)*
   * Created and managed pipelines for interpretation of large genomic datasets in cancer and normal tissues (TCGA, CCLE, GTEX, etc.)
   * Developed a non-parametric null model for calculating dN/dS to quantify patterns of selection in cancer
@@ -29,8 +29,7 @@ Work experience
   * Created a computational tool and shiny app for evolve and re-sequence experiments that utilizes haplotype information to accurately estimate allele frequencies from low coverage sequencing data
   
 
-Publications
-======
+### Publications
 
 1. **Tilk, S.**, Curtis, C., Petrov, D.A., McFarland, C.M. *Most cancers carry a substantial deleterious load due to Hill-Robertson interference.* BioRxiv: 10.1101/764340
 
@@ -44,22 +43,20 @@ Publications
 
 6. Assaf ZJ, **Tilk S**, Park J, Siegal M, Petrov DA. *Deep sequencing of natural and experimental populations of Drosophila melanogaster reveals biases in the spectrum of new mutations.* Genome Research, 27 (12): 1988–2000. (2017).
 
-
-Presentations
-======
+### Presentations
 
 * Population, Evolutionary and Quantitative Genetics. April 2020. (Talk, presented virtually)
 * Systems Approaches to Cancer Biology. Woods Hole, MA. November 2018. (Talk) 
 * Population, Evolutionary and Quantitative Genetics. Madison, WI. May 2018. (Poster)
 * Bay Area Population Genetics XIV. San Francisco, CA. September 2016 (Poster)
 
-Awards
-======
+### Awards
+
 * NSF Graduate Research Fellowship Program *(Honorable Mention)*, 2019
 * Distinction in the Major, 2014
 
-Teaching
-======
+### Teaching
+
 * Bio 118: Genetic Analysis of Biological Processes
 * Bio 82: Genetics
 
