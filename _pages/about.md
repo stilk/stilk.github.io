@@ -24,6 +24,6 @@ When multiple beneficial and deleterious mutations are physically linked on the 
 
 #### Seasonal adaptation in Drosophila
 
-My previous research was focused on how Drosophila populations rapidly adapt to changing environments. I developed a computational pipeline, [HAF-pipe](https://academic.oup.com/g3journal/article/9/12/4159/6028100?login=true), that cost-effectively measures allele frequency shifts in evolve-and-resequence experiments by utilizing happlotype information of the initial evolving population.
+My previous research was focused on how Drosophila populations rapidly adapt to changing environments. I developed a computational pipeline, [HAF-pipe](https://academic.oup.com/g3journal/article/9/12/4159/6028100?login=true), that cost-effectively measures allele frequency shifts in evolve-and-resequence experiments by utilizing haplotype information of the initial evolving population.
 
 
