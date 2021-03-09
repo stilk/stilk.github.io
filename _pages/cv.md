@@ -24,7 +24,7 @@ Work experience
 
 * **Life Science Research Professional 1, Stanford University** *(2014 - 2017)*
   * Familiarity with generating next-generation sequencing data, including multiplexed DNA and RNA-Seq libraries
-  * Built bioinformatics pipelines on Linux & cloud computing systems (bwa, samtools, GATK, etc)
+  * Built bioinformatics pipelines on Linux and HPC clusters (bwa, samtools, GATK, etc)
   * Ran experiments characterizing the mutational spectrum of de novo mutations occurring in D. melanogaster through mutation accumulation experiments 
   * Created a computational tool and shiny app for evolve and re-sequence experiments that utilizes haplotype information to accurately estimate allele frequencies from low coverage sequencing data
   
