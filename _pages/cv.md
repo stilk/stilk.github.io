@@ -32,15 +32,17 @@ Work experience
 Publications
 ======
 
-1. **Tilk, S.**, Curtis, C., Petrov, D.A., McFarland, C.M. *Most cancers carry a substantial deleterious load due to Hill-Robertson interference.* eLife (in review);
+1. **Tilk, S.**, Curtis, C., Petrov, D.A., McFarland, C.M. *Most cancers carry a substantial deleterious load due to Hill-Robertson interference.* BioRxiv: 10.1101/764340
 
-2. Machado, H.E., Bergland, A.O., Taylor, R., **Tilk, S**., Behrman, E., Dyer, K., Fabian, D.K, Flatt, T., Gonzalez, J., Karasov, T.L., Kozeretska, I., Lazzaro B.P., Merritt, T.J.S., O'Brien, K., Rajpurohit, S., Roy, P.R., Schaeffer, S.W., Schmidt, P.# and D. A. Petrov#. *Broad geographic sampling reveals predictable and pervasive seasonal adaptation in Drosophila.* eLife, (in review); (* and # - contributed equally);
+2. Machado, H.E., Bergland, A.O., Taylor, R., **Tilk, S**., Behrman, E., Dyer, K., Fabian, D.K, Flatt, T., Gonzalez, J., Karasov, T.L., Kozeretska, I., Lazzaro B.P., Merritt, T.J.S., O'Brien, K., Rajpurohit, S., Roy, P.R., Schaeffer, S.W., Schmidt, P.# and D. A. Petrov#. *Broad geographic sampling reveals predictable and pervasive seasonal adaptation in Drosophila.* eLife, (in review); (* and # - contributed equally)
 
-3. Caswell-Jin, J. L., McNamara, K., Reiter, J. G., Sun, R., Hu, Z., Ma, Z., Ding, J., Suarez, C. J., **Tilk, S**., Raghavendra, A., Forte, V., Chin, S., Bardwell, H., Provezano, E., Caldas, C., Lang, J., West, R., Tripathy, D., Press, M. F., Curtis, C. *Clonal Replacement And Heterogeneity In Breast Tumors Treated With Neoadjuvant HER2-Targeted Therapy*. Nature Communications. 10, 657. (2019).
+3. Weller, CAW, **Tilk, S**, Rajpurohit, S, Bergland, A.O.,  Accurate, ultra-low coverage genome reconstruction and association studies in Hybrid Swarm mapping populations. BioRxiv: 10.1101/671925
 
-4. **Tilk S**, Bergland AO, Schmidt P, Petrov DA, Greenblum, S. *Accurate allele frequencies from ultra-low coverage pool-seq samples in evolve-and-resequence experiments*. G3: 10.1534/g3.119.400755. (2019).
+4. Caswell-Jin, J. L., McNamara, K., Reiter, J. G., Sun, R., Hu, Z., Ma, Z., Ding, J., Suarez, C. J., **Tilk, S**., Raghavendra, A., Forte, V., Chin, S., Bardwell, H., Provezano, E., Caldas, C., Lang, J., West, R., Tripathy, D., Press, M. F., Curtis, C. *Clonal Replacement And Heterogeneity In Breast Tumors Treated With Neoadjuvant HER2-Targeted Therapy*. Nature Communications. 10, 657. (2019).
 
-5. Assaf ZJ, **Tilk S**, Park J, Siegal M, Petrov DA. *Deep sequencing of natural and experimental populations of Drosophila melanogaster reveals biases in the spectrum of new mutations.* Genome Research, 27 (12): 1988–2000. (2017).
+5. **Tilk S**, Bergland AO, Schmidt P, Petrov DA, Greenblum, S. *Accurate allele frequencies from ultra-low coverage pool-seq samples in evolve-and-resequence experiments*. G3: 10.1534/g3.119.400755. (2019).
+
+6. Assaf ZJ, **Tilk S**, Park J, Siegal M, Petrov DA. *Deep sequencing of natural and experimental populations of Drosophila melanogaster reveals biases in the spectrum of new mutations.* Genome Research, 27 (12): 1988–2000. (2017).
 
 
 Presentations
