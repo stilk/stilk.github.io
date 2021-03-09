@@ -36,7 +36,7 @@ Publications
 
 2. Machado, H.E., Bergland, A.O., Taylor, R., **Tilk, S**., Behrman, E., Dyer, K., Fabian, D.K, Flatt, T., Gonzalez, J., Karasov, T.L., Kozeretska, I., Lazzaro B.P., Merritt, T.J.S., O'Brien, K., Rajpurohit, S., Roy, P.R., Schaeffer, S.W., Schmidt, P.# and D. A. Petrov#. *Broad geographic sampling reveals predictable and pervasive seasonal adaptation in Drosophila.* eLife, (in review); (* and # - contributed equally)
 
-3. Weller, CAW, **Tilk, S**, Rajpurohit, S, Bergland, A.O.,  Accurate, ultra-low coverage genome reconstruction and association studies in Hybrid Swarm mapping populations. BioRxiv: 10.1101/671925
+3. Weller, CAW, **Tilk, S**, Rajpurohit, S, Bergland, A.O.,  *Accurate, ultra-low coverage genome reconstruction and association studies in Hybrid Swarm mapping populations.* BioRxiv: 10.1101/671925
 
 4. Caswell-Jin, J. L., McNamara, K., Reiter, J. G., Sun, R., Hu, Z., Ma, Z., Ding, J., Suarez, C. J., **Tilk, S**., Raghavendra, A., Forte, V., Chin, S., Bardwell, H., Provezano, E., Caldas, C., Lang, J., West, R., Tripathy, D., Press, M. F., Curtis, C. *Clonal Replacement And Heterogeneity In Breast Tumors Treated With Neoadjuvant HER2-Targeted Therapy*. Nature Communications. 10, 657. (2019).
 
