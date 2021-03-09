@@ -16,17 +16,16 @@ Currently, I'm a fourth-year graduate student in the Ecology & Evolution track o
 Research
 ------
 
-__________
+#### Mutational load in high mutation rate tumors
+
+Currently, I'm exploring how tumors sucessfully manage their deleterious mutational load to identify new cancer vulnerabilities.  
 
 #### Selective interference in cancer 
 
-When multiple beneficial and deleterious mutations are physically linked on the same chromosome, natural selection becomes inefficient at favoring or removing individual mutations through selective interference. We tested how common this phenomenon is in human cancers by measuring how patterns of selection change as tumors accumulate more mutations. Using a combination of evolutionary simulations and observation from empirical cancer sequencing data, we found that negative selection, in particular, becomes rapidly inefficient in most tumors. 
+When multiple beneficial and deleterious mutations are physically linked on the same chromosome, natural selection becomes inefficient at favoring or removing individual mutations through selective interference. We tested how common this phenomenon is in human cancers by measuring how patterns of selection change as tumors accumulate more mutations. Using a combination of evolutionary simulations and observation from empirical cancer sequencing data, we found that negative selection, in particular, becomes rapidly inefficient in most tumors. To learn more, check out our paper [here](https://www.biorxiv.org/content/10.1101/764340v4)!
 
-_______
+#### Seasonal adaptation in Drosophila
 
-#### Mutational load in high mutation rate tumors
-_______
+My previous research was focused on how Drosophila populations rapidly adapt to changing environments. I developed a computational pipeline, [HAF-pipe](https://academic.oup.com/g3journal/article/9/12/4159/6028100?login=true), that cost-effectively measures allele frequency shifts in evolve-and-resequence experiments by utilizing happlotype information of the initial evolving population.
 
-Currently, I'm exploring how tumors that accumulate deleterious mutations successfully overcome their mutational load. 
-_______
 
