@@ -16,13 +16,13 @@ Education
 
 Work experience
 ======
-* Graduate Student Researcher, Stanford University *(2017 - Present)*
+* **Graduate Student Researcher, Stanford University** *(2017 - Present)*
   * Created and managed pipelines for interpretation of large genomic datasets in cancer and normal tissues (TCGA, CCLE, GTEX, etc.)
   * Developed a non-parametric null model for calculating dN/dS to quantify patterns of selection in cancer
   * Applied Approximate Bayesian Computation (ABC) techniques to infer parameters of a tumor evolution model
   * Utilized mixed effects regression models to quantify expression profiles of tumors
 
-* Life Science Research Professional 1, Stanford University *(2014 - 2017)*
+* **Life Science Research Professional 1, Stanford University** *(2014 - 2017)*
   * Familiarity with generating next-generation sequencing data, including multiplexed DNA and RNA-Seq libraries
   * Built bioinformatics pipelines on Linux & cloud computing systems (bwa, samtools, GATK, etc)
   * Ran experiments characterizing the mutational spectrum of de novo mutations occurring in D. melanogaster through mutation accumulation experiments 
