@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Biology, Stanford University *2022 (expected)*
-* B.S. in Cell and Developmental Biology, UC Santa Barbara *2014*
+* Ph.D. in Biology, Stanford University, *2022 (expected)*
+* B.S. in Cell and Developmental Biology, UC Santa Barbara, *2014*
 
 Work experience
 ======
