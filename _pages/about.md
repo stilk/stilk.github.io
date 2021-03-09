@@ -16,7 +16,7 @@ Research
 ------
 #### Mutational load in high mutation rate tumors
 
-Currently, I'm exploring how tumors sucessfully manage their deleterious mutational load to identify new cancer vulnerabilities.  
+At the moment, I'm exploring how tumors sucessfully manage their deleterious mutational load to identify new cancer vulnerabilities.
 
 #### Selective interference in cancer 
 
