@@ -14,7 +14,6 @@ Currently, I'm a fourth-year graduate student in the Ecology & Evolution track o
 
 Research
 ------
-________
 #### Mutational load in high mutation rate tumors
 
 Currently, I'm exploring how tumors sucessfully manage their deleterious mutational load to identify new cancer vulnerabilities.  
