@@ -28,6 +28,7 @@ ________________
   * Built bioinformatics pipelines on Linux and HPC clusters (bwa, samtools, GATK, etc)
   * Ran experiments characterizing the mutational spectrum of de novo mutations occurring in D. melanogaster through mutation accumulation experiments 
   * Created a computational tool and shiny app for evolve and re-sequence experiments that utilizes haplotype information to accurately estimate allele frequencies from low coverage sequencing data
+
 ### Publications
 
 1. **Tilk, S.**, Curtis, C., Petrov, D.A., McFarland, C.M. *Most cancers carry a substantial deleterious load due to Hill-Robertson interference.* BioRxiv: 10.1101/764340
@@ -41,16 +42,19 @@ ________________
 5. **Tilk S**, Bergland AO, Schmidt P, Petrov DA, Greenblum, S. *Accurate allele frequencies from ultra-low coverage pool-seq samples in evolve-and-resequence experiments*. G3: 10.1534/g3.119.400755. (2019).
 
 6. Assaf ZJ, **Tilk S**, Park J, Siegal M, Petrov DA. *Deep sequencing of natural and experimental populations of Drosophila melanogaster reveals biases in the spectrum of new mutations.* Genome Research, 27 (12): 1988–2000. (2017).
+
 ### Presentations
 
 * Population, Evolutionary and Quantitative Genetics. April 2020. (Talk, presented virtually)
 * Systems Approaches to Cancer Biology. Woods Hole, MA. November 2018. (Talk) 
 * Population, Evolutionary and Quantitative Genetics. Madison, WI. May 2018. (Poster)
 * Bay Area Population Genetics XIV. San Francisco, CA. September 2016 (Poster)
+
 ### Awards
 
 * NSF Graduate Research Fellowship Program *(Honorable Mention)*, 2019
 * Distinction in the Major, 2014
+
 ### Teaching
 
 * Bio 118: Genetic Analysis of Biological Processes
